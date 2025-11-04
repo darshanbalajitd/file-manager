@@ -12,6 +12,7 @@ The project is organized as follows:
 - `src/`: Contains source files (`.cpp`) implementing the functionalities.
   - `file_ops.cpp`: Implementations of file operation functions.
   - `main.cpp`: The main application entry point.
+- `.vscode/`: Contains VS Code specific settings.
 - `file-manager.exe`: The compiled executable (after building).
 
 ## Building the Project
